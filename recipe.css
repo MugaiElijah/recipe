@@ -1,0 +1,54 @@
+body{
+	background-color: white;
+	color: #404040 (red=64, green=64, blue=64);
+	font-size: 11px;
+	font-family: serif;
+	background-image: url(silverware.jpg);
+}
+h1{
+	background-color:  #F0F0F0 (red=240, green=240, blue=240);
+	color: #A4A400 (red=164, green=164, blue=0);
+	font-family: Lucida sans Unicode;
+	text-align: left;
+	text-decoration: underline;
+	font-size: 18px;
+	letter-spacing: 0.25em;
+}
+h2{
+	background-color: #F0F0F0 (red=240, green=240, blue=240);
+	color: #A4A400 (red=164, green=164, blue=0);
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 22px;
+	text-decoration: underline;
+	letter-spacing: 0.25em;
+
+}
+ul{
+	list-style: url(pie_icon.gif);
+}
+
+.link {
+	color: #A4A400 (red=164, green=164, blue=0);
+}
+
+form{
+	background-color: pink;
+}
+.vickie {
+	background-color: #FFFFA8 (red=255, green=255, blue=168);
+	text-align: right;
+	font-style: italic;
+}
+
+.emilie {
+	background-color: #FFFFA8 (red=255, green=255, blue=168);
+	text-align: right;
+	font-style: italic;
+}
+
+.jean {
+	background-color: #FFFFA8 (red=255, green=255, blue=168);
+	text-align: right;
+	font-style: italic;
+}
